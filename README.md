@@ -5,6 +5,7 @@ I'm a computer science student with a passion for learning and exploring new tec
 ## 🔭 Current Focus
 
 - Exploring the fundamentals of deep learning and machine learning
+- Configuring my environment using **nix**
 - Strengthening my understanding of algorithms and data structures
 - Building projects to apply and reinforce my knowledge
 
